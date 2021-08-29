@@ -1,0 +1,11 @@
+{
+            "editor.tabSize": 6,
+            "editor.fontSize": 16,
+            "window.zoomLevel": 0,
+            "terminal.integrated.fontSize": 14,
+            "terminal.integrated.fontFamily": "monospace",
+            "terminal.integrated.drawBoldTextInBrightColors": true,
+            "files.associations": {
+                        "stdio.h": "c"
+            },
+}
