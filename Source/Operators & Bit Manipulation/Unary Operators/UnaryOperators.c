@@ -16,10 +16,10 @@ int main()
       printf("\n"); // |-| Line Breaker |-|
 
       firstNumber++;
-      secondNumber++;
+      secondNumber--;
 
-      printf("First Number Unary(++) -> %d\n", firstNumber);
-      printf("Second Number Unary(++) -> %d\n\n", secondNumber);
+      printf("First Number Unary(++) -> %d\n", firstNumber);  
+      printf("Second Number Unary(--) -> %d\n\n", secondNumber);
 
       printf("|======================================================|\n\n");
       return EXIT_SUCCESS;
