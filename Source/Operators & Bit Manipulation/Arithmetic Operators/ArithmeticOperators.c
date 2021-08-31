@@ -31,5 +31,9 @@ int main()
       operationResult = firstNumber / secondNumber;
       printf("firstNumber / secondNumber -> %d\n", operationResult);
 
+      // Modulus Operation
+      operationResult = firstNumber % secondNumber;
+      printf("firstNumber %% secondNumber -> %d\n", operationResult);
+
       printf("\n|===================================================|\n"); // UI FINISH
 }
