@@ -36,11 +36,11 @@ int main()
       printf("(A | B) --> %d\n", (firstByteNumber | secondByteNumber));
       printf("(A ^ B) --> %d\n", (firstByteNumber ^ secondByteNumber));
       
-      printf("______________________\n");
-      printf("|--------------------|\n");
-      printf("| Bitwise Complement |\n");
-      printf("|--------------------|\n\n");
+      printf("_______________\n");
+      printf("|-------------|\n");
+      printf("| Bitwise NOT |\n");
+      printf("|-------------|\n\n");
 
-      printf("(~A) --> %d\n", ~firstByteNumber);
-      printf("(~B) --> %d\n", ~secondByteNumber);
+      printf("(~A) --> %d\n", ~30);
+      printf("(~B) --> %d\n", ~60);
 }
