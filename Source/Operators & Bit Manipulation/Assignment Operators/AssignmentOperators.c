@@ -19,10 +19,6 @@ int main()
 
       printf("\n"); // |-| Line Breaker |-|
 
-      // Setting Numbers
-      firstNumber = 24;
-      secondNumber = 12;
-      
       // Bitwise Operators With Assignment Operators      
       printf("A &= B --> %d\n", firstNumber &= secondNumber);
       printf("A |= B --> %d\n", firstNumber |= secondNumber);
