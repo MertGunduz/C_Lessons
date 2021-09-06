@@ -14,7 +14,7 @@ int main(void)
       printf("RAM LOCATION --> %llu\n", intPtr);
       printf("VALUE --> %d\n\n", *intPtr);
 
-      number = number << 1;
+      number = number << 1; 
       printf("RAM LOCATION --> %llu\n", intPtr);
       printf("VALUE --> %d\n\n", *intPtr);
 }
