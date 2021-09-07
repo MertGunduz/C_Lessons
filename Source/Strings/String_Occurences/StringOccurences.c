@@ -5,8 +5,8 @@
 
 int main()
 {
-      char WORD[] = "Selametle_Allah";
-      char occurenceWord = 'A';
+      char WORD[] = "Hello_World";
+      char occurenceWord = 'W';
 
       char * ret;
 
