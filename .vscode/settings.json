@@ -8,8 +8,7 @@
             "synthwave84.brightness": 0.45,
             "files.associations": {
                   "stdio.h": "c",
-                  "stdlib.h": "c",
-                  "string.h": "c"
+                  "stdlib.h": "c"
             },
             "C_Cpp.errorSquiggles": "Disabled",
 }
