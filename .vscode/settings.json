@@ -5,7 +5,7 @@
             "terminal.integrated.fontSize": 14,
             "terminal.integrated.fontFamily": "monospace",
             "terminal.integrated.drawBoldTextInBrightColors": true,
-            "synthwave84.brightness": 0.45,
+            "synthwave84.brightness": 0.85,
             "files.associations": {
                   "stdio.h": "c",
                   "stdlib.h": "c",
